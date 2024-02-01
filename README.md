@@ -11,4 +11,4 @@ Compared the results to recommend the best Machine Learning model
 
 Collab Link : https://colab.research.google.com/drive/1JfZKfWY_lA80UtWWEGRPBuIusRtN6Fjg?usp=sharing
 
-PPT Link : https://colab.research.google.com/drive/1JfZKfWY_lA80UtWWEGRPBuIusRtN6Fjg?usp=sharing
+PPT Link : https://docs.google.com/presentation/d/1W8xrLEBxcc8WanDVHHm8ZgfaIxBdGCBa/edit?usp=sharing&ouid=106702906048169590831&rtpof=true&sd=true
